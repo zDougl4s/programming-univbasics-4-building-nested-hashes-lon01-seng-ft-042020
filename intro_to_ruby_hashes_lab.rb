@@ -1,6 +1,6 @@
 def base_hash
   {
-  :key => {}
+  :railroads => {}
   }
 end
 
